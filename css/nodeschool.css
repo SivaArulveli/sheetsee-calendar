@@ -12,7 +12,7 @@ h2 {
   background: black;
   display: inline-block;
   padding: 4px 120px;
-  background-color: #74006A;
+  background-color: #FDA809;
   color: #EC1BEF;
   font-weight: normal;
   text-transform: uppercase;
@@ -111,5 +111,5 @@ a:hover {
 }
 
 .today .day {
-  background: purple;
+  background: White;
 }
